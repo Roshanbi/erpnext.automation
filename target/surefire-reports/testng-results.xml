@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-11T13:46:54 BST" name="Suite" finished-at="2025-08-11T13:47:09 BST" duration-ms="14980">
+    <groups>
+    </groups>
+    <test started-at="2025-08-11T13:46:54 BST" name="Test" finished-at="2025-08-11T13:47:09 BST" duration-ms="14980">
+      <class name="test.cases.VerifyAddNewUser">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:test.cases.VerifyAddNewUser@6379eb]" started-at="2025-08-11T13:46:55 BST" name="setUp" finished-at="2025-08-11T13:46:58 BST" duration-ms="3733" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginTest()[pri:0, instance:test.cases.VerifyAddNewUser@6379eb]" started-at="2025-08-11T13:46:58 BST" name="verifyLoginTest" finished-at="2025-08-11T13:47:09 BST" duration-ms="11009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.cases.VerifyAddNewUser@6379eb]" started-at="2025-08-11T13:47:09 BST" name="tearDown" finished-at="2025-08-11T13:47:09 BST" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- test.cases.VerifyAddNewUser -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
