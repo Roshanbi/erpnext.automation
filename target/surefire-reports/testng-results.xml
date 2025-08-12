@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-08-11T13:46:54 BST" name="Suite" finished-at="2025-08-11T13:47:09 BST" duration-ms="14980">
+  <suite started-at="2025-08-12T13:48:28 BST" name="Suite" finished-at="2025-08-12T13:48:48 BST" duration-ms="19754">
     <groups>
     </groups>
-    <test started-at="2025-08-11T13:46:54 BST" name="Test" finished-at="2025-08-11T13:47:09 BST" duration-ms="14980">
+    <test started-at="2025-08-12T13:48:28 BST" name="Test" finished-at="2025-08-12T13:48:48 BST" duration-ms="19754">
       <class name="test.cases.VerifyAddNewUser">
-        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:test.cases.VerifyAddNewUser@6379eb]" started-at="2025-08-11T13:46:55 BST" name="setUp" finished-at="2025-08-11T13:46:58 BST" duration-ms="3733" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.String,java.lang.String)[pri:0, instance:test.cases.VerifyAddNewUser@399f45b1]" started-at="2025-08-12T13:48:28 BST" name="setUp" finished-at="2025-08-12T13:48:31 BST" duration-ms="3284" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -23,11 +23,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyLoginTest()[pri:0, instance:test.cases.VerifyAddNewUser@6379eb]" started-at="2025-08-11T13:46:58 BST" name="verifyLoginTest" finished-at="2025-08-11T13:47:09 BST" duration-ms="11009" status="PASS">
+        <test-method signature="verifyLoginTest()[pri:0, instance:test.cases.VerifyAddNewUser@399f45b1]" started-at="2025-08-12T13:48:31 BST" name="verifyLoginTest" finished-at="2025-08-12T13:48:48 BST" duration-ms="16149" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginTest -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.cases.VerifyAddNewUser@6379eb]" started-at="2025-08-11T13:47:09 BST" name="tearDown" finished-at="2025-08-11T13:47:09 BST" duration-ms="196" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:test.cases.VerifyAddNewUser@399f45b1]" started-at="2025-08-12T13:48:48 BST" name="tearDown" finished-at="2025-08-12T13:48:48 BST" duration-ms="261" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
